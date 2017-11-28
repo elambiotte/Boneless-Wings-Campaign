@@ -2920,7 +2920,7 @@
 
 	#banner {
 		padding: 14em 0 12em 0;
-		background-image: url(../../images/banner.jpg);
+		background-image: url(../../images/banner.png);
 		background-size: cover;
 		background-position: center top;
 		background-repeat: no-repeat;
@@ -3136,7 +3136,7 @@
 
 	#footer {
 		padding: 6em 0 4em 0;
-		background: #25a2c3;
+		background: #595958;
 		text-align: center;
 		color: #c8e7f0;
 	}
